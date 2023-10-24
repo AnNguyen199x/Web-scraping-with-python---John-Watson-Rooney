@@ -6,3 +6,9 @@
 >   Active environment:     'source venv/bin/active' <br>
 >   Install request package:    'pip install httpx' <br>
 >   Install Http parser package:    'pip install selectolax' <br>
+>   code in main1.py
+
+
+## Second
+>   This is The Second Video in the series of scraping data for beginners <br>
+>	Link : [Web Scraping with Python](https://www.youtube.com/watch?v=ZgVus_rmDBQ&list=PLRzwgpycm-FiTz9bGQoITAzFEOJkbF6Qp&index=2)<br>
