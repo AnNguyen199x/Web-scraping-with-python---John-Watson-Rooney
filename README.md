@@ -12,3 +12,8 @@
 ## Second
 >   This is The Second Video in the series of scraping data for beginners <br>
 >	Link : [Web Scraping with Python](https://www.youtube.com/watch?v=ZgVus_rmDBQ&list=PLRzwgpycm-FiTz9bGQoITAzFEOJkbF6Qp&index=2)<br>
+
+
+##  Third
+>   This is The Third Video in the series of scraping data for beginners <br>
+>   Link: [Web Scraping with Python- get URLs, Extract Data](https://www.youtube.com/watch?v=DHvzCVLv_FA&list=PLRzwgpycm-FiTz9bGQoITAzFEOJkbF6Qp&index=3)<br>
